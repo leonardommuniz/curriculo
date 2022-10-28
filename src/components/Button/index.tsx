@@ -11,6 +11,7 @@ export default function Button(props: ButtonProps){
     const Button = styled("button", {
         backgroundColor: props.bgcolor,
         color: props.txtColor,
+        width: "100%",
         variants: {
             type: {
                 icon: {
