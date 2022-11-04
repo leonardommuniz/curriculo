@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@radix-ui/react-hover-card": "^1.0.2",
     "@radix-ui/react-icons": "^1.1.1",
     "@stitches/react": "^1.2.8",
     "localforage": "^1.10.0",
