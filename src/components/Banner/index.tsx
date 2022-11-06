@@ -24,7 +24,7 @@ export default function Banner() {
     });
 
     return (
-        <BannerContainer className="container mx-auto h-96 shadow-inner shadow-blue-500/25">
+        <BannerContainer className="container mx-auto h-96 shadow-inner shadow-blue-500">
             <div className=" my-auto">
                 <div>
                     <img
